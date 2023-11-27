@@ -209,3 +209,5 @@ echo I finished the boilerplate!
 echo one more thing...
 echo text >> README.md
 echo I made this boilerplate >> README.md
+more
+more README.md
